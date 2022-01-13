@@ -18,13 +18,13 @@ The courses enlisted as follows:
 
 - [x] **C1-Fundamentals of Visualization with Tableau**
 - [x] **C2-Essential Design Principles for Tableau**
-- [ ] **C3-Visual Analytics with Tableau**
-- [ ] **C4-Creating Dashboards and Storytelling with Tableau**
-- [ ] **C5-Data Visualization with Tableau Project**
+- [x] **C3-Visual Analytics with Tableau**
+- [x] **C4-Creating Dashboards and Storytelling with Tableau**
+- [x] **C5-Data Visualization with Tableau Project**
 
 ## Course Description: 1 Course
 
-Data science courses contain math—no avoiding that! This course is designed to teach learners the basic math you will need in order to be successful in almost any data science math course and was created for learners who have basic math skills but may not have taken algebra or pre-calculus. Data Science Math Skills introduces the core math that data science is built upon, with no extra complexity, introducing unfamiliar ideas and math symbols one-at-a-time.
+This Specialization, in collaboration with Tableau, is intended for newcomers to data visualization with no prior experience using Tableau. We leverage Tableau's library of resources to demonstrate best practices for data visualization and data storytelling. You will view examples from real world business cases and journalistic examples from leading media companies. 
 
 ## Applied Learning Project
 
