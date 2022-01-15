@@ -4,7 +4,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/BDFD-LearningGround/Data-Visualization-with-Tableau-Specialization?style=flat)
 <img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/Done.svg" alt="bdfd" />
 
-# Data Visualization With Tableau Specialization
+# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a> Data Visualization With Tableau Specialization
 
 ## About This Course/Certificate
 
@@ -45,4 +45,7 @@ Total Hours: ~72 Hrs
 
 ### Feel Free To Fork And Report If You Find Any Issue :)
 
+![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
+[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/bdfd?tab=repositories)
+[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/bdfd)   
 </div>
